@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.2",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.2/DeskCalendarSetup.exe",
-    "sha256":  "90E97718E8CDC0A83552B2CA70BC2EA3B450E3289BDF1A3D30E899999F6A409F",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.2/DeskCalendarSetup.zip",
-    "zipSha256":  "5A33886BCAB201059959F63547709C9E82B5456EC668D38985F4006DECB5BBE8",
-    "notes":  "캘린더 목록(헤더 왼쪽 버튼으로 캘린더별 표시·숨김), 목록에서 새 캘린더 만들기(이 PC 또는 Google 계정·원하는 색), 매월 1일에도 음력 표시, 배경이 투명할 때 글자가 더 잘 보이도록 개선, 최소화 버튼으로 트레이에 숨기기"
+    "version":  "1.0.3",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.3/DeskCalendarSetup.exe",
+    "sha256":  "B1C9F621E4ED8F5D780462CCC4866B35353CB521AE52A565E8E78C84E78B05AB",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.3/DeskCalendarSetup.zip",
+    "zipSha256":  "E75702BE84BEDA30EA91C232B484C77E7B14C25C3703312A3D4E44483080860A",
+    "notes":  "Windows 창 끌기(스냅) 지원(화면 옆·모서리·위로 끌어 붙이기), 전체 화면에서 헤더를 끌면 원래 크기로 돌아옴"
 }
