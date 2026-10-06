@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.3",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.3/DeskCalendarSetup.exe",
-    "sha256":  "B1C9F621E4ED8F5D780462CCC4866B35353CB521AE52A565E8E78C84E78B05AB",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.3/DeskCalendarSetup.zip",
-    "zipSha256":  "E75702BE84BEDA30EA91C232B484C77E7B14C25C3703312A3D4E44483080860A",
-    "notes":  "Windows 창 끌기(스냅) 지원(화면 옆·모서리·위로 끌어 붙이기), 전체 화면에서 헤더를 끌면 원래 크기로 돌아옴"
+    "version":  "1.0.4",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.4/DeskCalendarSetup.exe",
+    "sha256":  "917D01909F6B6FDCED8DC864DF40FB22FCDE9C82E7E2B20E2F2239FCC23E5C9A",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.4/DeskCalendarSetup.zip",
+    "zipSha256":  "F3666CEAB240283F92FDC68D031B6A45FCE9A4F4C07E427ECFA8A2C490321EA9",
+    "notes":  "끌 때 화면 가운데에 맞추기(PowerPoint처럼 점선 안내선 표시), 설정에서 가장자리 자석과 가운데 맞춤을 따로 켜고 끄기"
 }
