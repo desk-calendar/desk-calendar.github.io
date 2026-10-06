@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.0",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v0.3.0/DeskCalendarSetup.exe",
-    "sha256":  "C3B29DB36C331F7BBEB356FB60E482B42122654348FADF5F3C490529048BE421",
-    "notes":  "창 자석, Shift 비율 유지, 전체 화면·16:9·4:3, 자동 업데이트, 주차 표시, Google 캘린더 색 일치"
+    "version":  "0.3.1",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v0.3.1/DeskCalendarSetup.exe",
+    "sha256":  "F918C13CDC48701F46851758BC94B93F1BD94CF756EF5BA52C3B71911C9FBA4D",
+    "notes":  "자석 완화(천천히 끌어도 가장자리에서 쉽게 떨어짐), 화면 크기 버튼 순환(원래 크기 → 전체 화면 → 16:9 → 4:3), 업데이트 확인 30분마다"
 }
