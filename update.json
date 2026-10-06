@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.1",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.1/DeskCalendarSetup.exe",
-    "sha256":  "94D2160C425EC6853F3BD493C0BE6647B82CBA2F635FCF2D3592E0812CE2EB3F",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.1/DeskCalendarSetup.zip",
-    "zipSha256":  "C36FD5B8D795C9809C38233492DCD7D28B29D5860469E2E680D745A50D9712A3",
-    "notes":  "공휴일에도 음력 표시(자리가 모자라면 공휴일 이름 우선), 테두리 네 변·네 모서리 어디서나 크기 조절, 어느 테두리든 Shift를 누르고 끌면 비율 유지"
+    "version":  "1.0.2",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.2/DeskCalendarSetup.exe",
+    "sha256":  "90E97718E8CDC0A83552B2CA70BC2EA3B450E3289BDF1A3D30E899999F6A409F",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.2/DeskCalendarSetup.zip",
+    "zipSha256":  "5A33886BCAB201059959F63547709C9E82B5456EC668D38985F4006DECB5BBE8",
+    "notes":  "캘린더 목록(헤더 왼쪽 버튼으로 캘린더별 표시·숨김), 목록에서 새 캘린더 만들기(이 PC 또는 Google 계정·원하는 색), 매월 1일에도 음력 표시, 배경이 투명할 때 글자가 더 잘 보이도록 개선, 최소화 버튼으로 트레이에 숨기기"
 }
