@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.4",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.4/DeskCalendarSetup.exe",
-    "sha256":  "917D01909F6B6FDCED8DC864DF40FB22FCDE9C82E7E2B20E2F2239FCC23E5C9A",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.4/DeskCalendarSetup.zip",
-    "zipSha256":  "F3666CEAB240283F92FDC68D031B6A45FCE9A4F4C07E427ECFA8A2C490321EA9",
-    "notes":  "끌 때 화면 가운데에 맞추기(PowerPoint처럼 점선 안내선 표시), 설정에서 가장자리 자석과 가운데 맞춤을 따로 켜고 끄기"
+    "version":  "1.0.5",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.5/DeskCalendarSetup.exe",
+    "sha256":  "1C58C0AC8A0AF3373D0D3C9870436751966FD89C6651C38B9B598B65D16163FF",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.5/DeskCalendarSetup.zip",
+    "zipSha256":  "32E1B8698656E7ADF0CC216417896DEF2A8994C6A5DF77F504FB599B123C7F45",
+    "notes":  "트레이에서 올린 위젯이 일정을 입력하는 동안에도 맨 위에 유지(다른 프로그램이나 바탕화면을 누르면 다시 내려감)"
 }
