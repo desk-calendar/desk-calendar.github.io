@@ -1,6 +1,8 @@
 {
-    "version":  "0.3.1",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v0.3.1/DeskCalendarSetup.exe",
-    "sha256":  "F918C13CDC48701F46851758BC94B93F1BD94CF756EF5BA52C3B71911C9FBA4D",
-    "notes":  "자석 완화(천천히 끌어도 가장자리에서 쉽게 떨어짐), 화면 크기 버튼 순환(원래 크기 → 전체 화면 → 16:9 → 4:3), 업데이트 확인 30분마다"
+    "version":  "1.0.0",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.0/DeskCalendarSetup.exe",
+    "sha256":  "98A2B1D49991A2C830D58C5B62B81BA1BCEA58EFD04946E06BF44AB9CBD59EB0",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.0/DeskCalendarSetup.zip",
+    "zipSha256":  "A4FC816DFDC49380FDCB640C0375C78418B4FF4A6E0549AD21A372AB09D2AEF4",
+    "notes":  "정식 버전, .NET 설치 없이 바로 실행, 일정 내보내기·가져오기와 전체 백업·복원, 달력 글자 크게(메뉴 글자와 따로 조절), 음력을 날짜 바로 옆에 표시, 넘친 일정은 날짜 옆 +N개로 표시, 오픈소스 라이선스 고지"
 }

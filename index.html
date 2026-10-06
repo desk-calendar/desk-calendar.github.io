@@ -42,6 +42,16 @@
     h2 { font-size: 1.2rem; margin: 36px 0 8px; }
     .lead { font-size: 1.1rem; color: var(--muted); }
     .muted { color: var(--muted); }
+    .download {
+      display: inline-block;
+      margin: 4px 0 8px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      background: var(--accent);
+      color: #fff;
+      font-weight: 600;
+      text-decoration: none;
+    }
     a { color: var(--accent); }
     code { font-size: 0.9em; word-break: break-all; }
     hr { border: 0; border-top: 1px solid var(--line); margin: 48px 0 0; }
@@ -74,7 +84,21 @@
         <li>일정 고정과 D-Day, 완료 체크</li>
         <li>Windows 알림으로 일정 알람, 다시 알림</li>
         <li>Google 캘린더·iCloud 캘린더 양방향 동기화, 여러 계정 연결</li>
+        <li>일정 내보내기·가져오기(.ics)와 전체 백업·복원</li>
       </ul>
+    </section>
+
+    <section>
+      <h2>다운로드</h2>
+      <p><a class="download" href="https://github.com/desk-calendar/desk-calendar.github.io/releases/latest/download/DeskCalendarSetup.exe">설치 파일 받기 (DeskCalendarSetup.exe)</a></p>
+      <ul>
+        <li>Windows 10(1809 이상)·Windows 11, 64비트. 실행에 필요한 구성 요소가 포함되어 있어 따로 설치할 것이 없습니다.</li>
+        <li>처음 실행할 때 "Windows의 PC 보호" 창이 나오면 <b>추가 정보 → 실행</b>을 눌러 주세요.
+          코드 서명 인증서가 없는 개인 개발 앱이라 표시되는 안내입니다.</li>
+        <li>설치한 뒤에는 새 버전이 나오면 앱이 알려 주고 바로 업데이트할 수 있습니다.</li>
+        <li>삭제는 Windows 설정 → 앱 → 설치된 앱에서 "바탕화면 캘린더"를 제거하면 됩니다.</li>
+      </ul>
+      <p class="muted">변경 내역과 이전 버전: <a href="https://github.com/desk-calendar/desk-calendar.github.io/releases">릴리스 목록</a></p>
     </section>
 
     <section>
