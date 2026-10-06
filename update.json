@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.5",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.5/DeskCalendarSetup.exe",
-    "sha256":  "1C58C0AC8A0AF3373D0D3C9870436751966FD89C6651C38B9B598B65D16163FF",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.5/DeskCalendarSetup.zip",
-    "zipSha256":  "32E1B8698656E7ADF0CC216417896DEF2A8994C6A5DF77F504FB599B123C7F45",
-    "notes":  "트레이에서 올린 위젯이 일정을 입력하는 동안에도 맨 위에 유지(다른 프로그램이나 바탕화면을 누르면 다시 내려감)"
+    "version":  "1.0.6",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.6/DeskCalendarSetup.exe",
+    "sha256":  "0EDC2A5A6C02677732895F696385D858185257E645CBFBED9C0E2E726A1E5AE8",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.6/DeskCalendarSetup.zip",
+    "zipSha256":  "9AE415F665B2F817CC8D4F58507BCF97A0A49383990B4A3922942D16227277B2",
+    "notes":  "트레이에서 올린 위젯에서 말풍선을 연 채 다른 날짜를 눌러도 위젯이 맨 위에 그대로 유지"
 }
