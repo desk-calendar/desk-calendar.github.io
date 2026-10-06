@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.0",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.0/DeskCalendarSetup.exe",
-    "sha256":  "98A2B1D49991A2C830D58C5B62B81BA1BCEA58EFD04946E06BF44AB9CBD59EB0",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.0/DeskCalendarSetup.zip",
-    "zipSha256":  "A4FC816DFDC49380FDCB640C0375C78418B4FF4A6E0549AD21A372AB09D2AEF4",
-    "notes":  "정식 버전, .NET 설치 없이 바로 실행, 일정 내보내기·가져오기와 전체 백업·복원, 달력 글자 크게(메뉴 글자와 따로 조절), 음력을 날짜 바로 옆에 표시, 넘친 일정은 날짜 옆 +N개로 표시, 오픈소스 라이선스 고지"
+    "version":  "1.0.1",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.1/DeskCalendarSetup.exe",
+    "sha256":  "94D2160C425EC6853F3BD493C0BE6647B82CBA2F635FCF2D3592E0812CE2EB3F",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.1/DeskCalendarSetup.zip",
+    "zipSha256":  "C36FD5B8D795C9809C38233492DCD7D28B29D5860469E2E680D745A50D9712A3",
+    "notes":  "공휴일에도 음력 표시(자리가 모자라면 공휴일 이름 우선), 테두리 네 변·네 모서리 어디서나 크기 조절, 어느 테두리든 Shift를 누르고 끌면 비율 유지"
 }
