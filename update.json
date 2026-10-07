@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.7",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.7/DeskCalendarSetup.exe",
-    "sha256":  "205C84F8367658E9D7A06F4F9C0915DAFED8960D2ED296A74DE5E0284FB8AA0F",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.7/DeskCalendarSetup.zip",
-    "zipSha256":  "A3F567D65D9F1D2C4D7780C5584E913CA658CCC66A6C7C75EBF148805627969C",
-    "notes":  "네이버 캘린더 연결(일정 양방향 동기화), 앱에서 iCloud에 새 캘린더 만들기, 설정에서 Google·iCloud 캘린더를 계정에서도 삭제, 설정과 위젯의 캘린더 목록을 계정별로 접고 펼치기, 최소화 후 바탕화면을 누르면 빈 테두리 상자가 남던 문제 수정"
+    "version":  "1.0.8",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.8/DeskCalendarSetup.exe",
+    "sha256":  "E500511DCD8102A467B2661B7FDB6A882A4768D7023E94EE9280223239D2B2DF",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.8/DeskCalendarSetup.zip",
+    "zipSha256":  "CD09200B9B130F5B3470AC6BFF9F7D79DAA445D315D30C52FF9DD064C5BF6920",
+    "notes":  "설정과 위젯의 캘린더 목록에서 계정별로 전체 표시·해제, 네이버 로그인 버튼에 네이버 로고"
 }
