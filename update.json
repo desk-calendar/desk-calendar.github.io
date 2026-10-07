@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.8",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.8/DeskCalendarSetup.exe",
-    "sha256":  "E500511DCD8102A467B2661B7FDB6A882A4768D7023E94EE9280223239D2B2DF",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.8/DeskCalendarSetup.zip",
-    "zipSha256":  "CD09200B9B130F5B3470AC6BFF9F7D79DAA445D315D30C52FF9DD064C5BF6920",
-    "notes":  "설정과 위젯의 캘린더 목록에서 계정별로 전체 표시·해제, 네이버 로그인 버튼에 네이버 로고"
+    "version":  "1.0.9",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.9/DeskCalendarSetup.exe",
+    "sha256":  "D0D68C8A75E55E8483D0ECFBE06C9C14D09CC071716C8716880168FFA1D84D18",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.9/DeskCalendarSetup.zip",
+    "zipSha256":  "AFA82F616609454DB2877AA916C92FEC31671C2E015AB979FAD75F1C8ECDD16F",
+    "notes":  "계정별 달력에 표시 스위치(각 캘린더의 표시 설정은 그대로 유지), Apple 로그인 버튼에 Apple 로고, 설정 안내 문구에 네이버 추가"
 }
