@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.6",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.6/DeskCalendarSetup.exe",
-    "sha256":  "0EDC2A5A6C02677732895F696385D858185257E645CBFBED9C0E2E726A1E5AE8",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.6/DeskCalendarSetup.zip",
-    "zipSha256":  "9AE415F665B2F817CC8D4F58507BCF97A0A49383990B4A3922942D16227277B2",
-    "notes":  "트레이에서 올린 위젯에서 말풍선을 연 채 다른 날짜를 눌러도 위젯이 맨 위에 그대로 유지"
+    "version":  "1.0.7",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.7/DeskCalendarSetup.exe",
+    "sha256":  "205C84F8367658E9D7A06F4F9C0915DAFED8960D2ED296A74DE5E0284FB8AA0F",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.0.7/DeskCalendarSetup.zip",
+    "zipSha256":  "A3F567D65D9F1D2C4D7780C5584E913CA658CCC66A6C7C75EBF148805627969C",
+    "notes":  "네이버 캘린더 연결(일정 양방향 동기화), 앱에서 iCloud에 새 캘린더 만들기, 설정에서 Google·iCloud 캘린더를 계정에서도 삭제, 설정과 위젯의 캘린더 목록을 계정별로 접고 펼치기, 최소화 후 바탕화면을 누르면 빈 테두리 상자가 남던 문제 수정"
 }
