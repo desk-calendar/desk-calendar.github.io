@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.1.0/DeskCalendarSetup.exe",
-    "sha256":  "C7FDD43E1B681E3657C897CE54FCDF2769935D13A1680194E2A2A2C8C17CCF6C",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.1.0/DeskCalendarSetup.zip",
-    "zipSha256":  "D15D763E6BDC73160ACD614C019CA1681BE448943CE852B40266DA64774C5DB0",
-    "notes":  "할 일 목록(일정 목록 아래쪽 절반)과 달력 칸 표시, 네이버·Google 할 일 동기화와 마감일 알림(옵션), Win+D를 두 번 눌러도 창이 돌아오지 않던 문제 수정, 여러 날 일정이 달력 칸 맨 위에 끊김 없이 이어지도록 배치"
+    "version":  "1.1.1",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.1.1/DeskCalendarSetup.exe",
+    "sha256":  "2F105945AF1F4F9BA322D59BBB13BC5D24B60B570CFE449F43FBA3AF758BF38F",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.1.1/DeskCalendarSetup.zip",
+    "zipSha256":  "A4DE828A59AFBDE2897075CD28AAE00A78B8C61D198BC6410596512D30E2F9A0",
+    "notes":  "로그인하거나 위젯을 다시 켠 뒤 Win+D를 두 번 눌러도 창이 돌아오지 않던 문제 수정, 트레이로 위젯을 앞으로 가져온 뒤 Win+D가 다시 풀리던 문제 수정"
 }
