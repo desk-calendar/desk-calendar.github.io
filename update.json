@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.0",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.0/DeskCalendarSetup.exe",
-    "sha256":  "4FE09CE0BA1F19EA8F557EE7988D968BA977F82FD6A1C9A3480EC2409C61784A",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.0/DeskCalendarSetup.zip",
-    "zipSha256":  "0E5A6F62C116CFC7B169C6EA345109D84B382B081BB66CA83CF3AFD0CB5DF3B7",
-    "notes":  "캘린더와 계정 묶음 순서를 끌어서 바꾸기(설정과 위젯 목록이 같은 순서), 표시 방식 선택: 바탕화면 위젯·항상 위·일반 프로그램(위젯 오른쪽 위 단추·트레이 메뉴·설정), 항상 위와 일반 프로그램은 작업 표시줄에 나오고 Win+D로 다른 창과 함께 내려감, 할 일 기능 켜기·끄기(끄면 화면·동기화·알림이 모두 멈춤)"
+    "version":  "1.2.1",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.1/DeskCalendarSetup.exe",
+    "sha256":  "0103E5834755835ED124617FE99C798C6AC946D099767B5F90B3961171F4A774",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.1/DeskCalendarSetup.zip",
+    "zipSha256":  "2EFEB4C1B4D9D821A80B15E890D08F36BDE49794275F6C46FAFEC1E0579B43F6",
+    "notes":  "일정을 추가할 때 캘린더 고르기에 캘린더마다 어느 계정의 캘린더인지 함께 표시(설정의 기본 캘린더 고르기도 같음)"
 }
