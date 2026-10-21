@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.3",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.3/DeskCalendarSetup.exe",
-    "sha256":  "8F046568E2596A7C50B415F3BDBFB8C26D37B333A72A44083E9C520353B9AFCC",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.3/DeskCalendarSetup.zip",
-    "zipSha256":  "C0DB7F7666DAE0F4C6FF66104431B7F82B73C622B8248B636E2DAAB5B1C9951C",
-    "notes":  "여러 날을 끌어 일정을 만들 때 말풍선이 열린 동안 그 날들이 모두 강조됨, 모니터를 연결하거나 빼면 모니터 조합마다 기억한 위젯 위치와 크기로 돌아가고 처음 보는 화면에서는 화면 크기에 비례해 맞춤, Alt를 누른 채 일정을 끌어다 놓으면 그 날에 복사"
+    "version":  "1.2.4",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.4/DeskCalendarSetup.exe",
+    "sha256":  "C1A5459B4FA4B0F661F91C49B43BD28369371EA0DBEA31918F96FA5C9A5F9037",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.4/DeskCalendarSetup.zip",
+    "zipSha256":  "A8520E7926ECE838E9E42221A0C4DF5F0827AADF2D21B1697A27CB3EF8A07963",
+    "notes":  "Alt를 누른 채 끌던 일정을 원래 날에 다시 놓아도 복사, 일정 우클릭 메뉴에 일정 복사 추가(같은 날 같은 시간에 바로 복사본)"
 }
