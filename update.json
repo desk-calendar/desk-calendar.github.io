@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.2",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.2/DeskCalendarSetup.exe",
-    "sha256":  "0A0A05094E1FED11CE829446D353948EECBB6446B5F5D6D6E0F9BC9320913E1B",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.2/DeskCalendarSetup.zip",
-    "zipSha256":  "F0ACDE72EDBD9E1780CC0DF7AEB63EB4A0BB6C5A02C215E5D5FF11718BF1FFA4",
-    "notes":  "Google 일정을 종일로 바꾸거나 되돌리면 동기화가 실패하던 문제 수정, Google이 일정 하나를 받지 않아도 나머지 동기화는 계속하고 계정 상태에 알림, 인터넷에서 받은 설치 파일로 설치하면 실행 때마다 Windows의 PC 보호 창이 다시 뜨던 문제 수정, 새로 설치한 뒤 첫 실행에는 위젯을 앞으로 띄우고 트레이 알림으로 위치 안내"
+    "version":  "1.2.3",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.3/DeskCalendarSetup.exe",
+    "sha256":  "8F046568E2596A7C50B415F3BDBFB8C26D37B333A72A44083E9C520353B9AFCC",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.3/DeskCalendarSetup.zip",
+    "zipSha256":  "C0DB7F7666DAE0F4C6FF66104431B7F82B73C622B8248B636E2DAAB5B1C9951C",
+    "notes":  "여러 날을 끌어 일정을 만들 때 말풍선이 열린 동안 그 날들이 모두 강조됨, 모니터를 연결하거나 빼면 모니터 조합마다 기억한 위젯 위치와 크기로 돌아가고 처음 보는 화면에서는 화면 크기에 비례해 맞춤, Alt를 누른 채 일정을 끌어다 놓으면 그 날에 복사"
 }
