@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.4",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.4/DeskCalendarSetup.exe",
-    "sha256":  "C1A5459B4FA4B0F661F91C49B43BD28369371EA0DBEA31918F96FA5C9A5F9037",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.4/DeskCalendarSetup.zip",
-    "zipSha256":  "A8520E7926ECE838E9E42221A0C4DF5F0827AADF2D21B1697A27CB3EF8A07963",
-    "notes":  "Alt를 누른 채 끌던 일정을 원래 날에 다시 놓아도 복사, 일정 우클릭 메뉴에 일정 복사 추가(같은 날 같은 시간에 바로 복사본)"
+    "version":  "1.2.5",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.5/DeskCalendarSetup.exe",
+    "sha256":  "BD8102D0DCA171823EFB61FB5DEE4BB806F99CDAED6FFF5C99D760F9136D69D9",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.5/DeskCalendarSetup.zip",
+    "zipSha256":  "726B8530D2BB885B5EC61E13E7AA691CE9ECDBB0BE26ECA6254225476F8FC840",
+    "notes":  "위젯이 좁아지면 맨 위 단추가 잘려 잠금 상태에서 풀 수 없던 문제 수정(남는 단추는 더 보기 메뉴로 접히고 잠금·설정·최소화는 항상 보임)"
 }
