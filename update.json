@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.5",
-    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.5/DeskCalendarSetup.exe",
-    "sha256":  "BD8102D0DCA171823EFB61FB5DEE4BB806F99CDAED6FFF5C99D760F9136D69D9",
-    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.5/DeskCalendarSetup.zip",
-    "zipSha256":  "726B8530D2BB885B5EC61E13E7AA691CE9ECDBB0BE26ECA6254225476F8FC840",
-    "notes":  "위젯이 좁아지면 맨 위 단추가 잘려 잠금 상태에서 풀 수 없던 문제 수정(남는 단추는 더 보기 메뉴로 접히고 잠금·설정·최소화는 항상 보임)"
+    "version":  "1.2.6",
+    "url":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.6/DeskCalendarSetup.exe",
+    "sha256":  "7CE2038188AE9F35C2552BCFE793273E888C9E74F9E62323F6E66C072448413E",
+    "zip":  "https://github.com/desk-calendar/desk-calendar.github.io/releases/download/v1.2.6/DeskCalendarSetup.zip",
+    "zipSha256":  "5F1994194F616438F124866E4E0F280DBBF60BCF53DB454BAA9C58BC28905E71",
+    "notes":  "일정 말풍선에서 바쁨과 한가함 선택(Google·iCloud·네이버), 꺼진 캘린더는 새 일정의 캘린더 목록에서 빠짐, 월 보기에서 Alt+휠은 달 단위로 이동, 압축 파일 안에서 바로 실행한 설치 파일로 설치하지 못하던 문제 수정"
 }
